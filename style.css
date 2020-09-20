@@ -1,0 +1,36 @@
+.main{
+    width:1000px;
+    display:block;
+    margin:auto;
+    font-family: Verdana,sans-serif;
+    font-weight: 500;
+    background-color:#ffe9c7;
+}
+
+.info li{
+    text-decoration: none;
+    list-style: none;
+}
+.info ul{
+    text-decoration: none;
+    list-style: none;
+}
+.info img{
+    width:500px;
+}
+
+git clone <http>
+git status (red files)
+git add . / <file name>
+git commit -m "<text>"
+git push origin master
+
+
+git branch <new branch> master
+git checkout <new branch>
+<izmenenia>
+git status
+git push origin <new branch>
+
+
+
