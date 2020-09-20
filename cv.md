@@ -2,6 +2,7 @@
 2. Call +37529 8761354 or use vk https://vk.com/darytereshchenko
 3. I want to work as a full stack developer and be able to travel anywhere
 4. a little c++ and java, git, math, html&css
+
 5. 
 ```#include <iostream>
 #include <cmath>
